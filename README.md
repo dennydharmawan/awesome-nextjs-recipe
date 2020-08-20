@@ -14,7 +14,7 @@ Toast: https://github.com/fkhadra/react-toastify
 
 Form : react hook form + yup(data validation)
 
-State Management: Zustand
+State Management: Redux Tookit with Redux Thunk or Redux Observable
 
 Authentication: Next-Auth or Next-Connect with passport
 
