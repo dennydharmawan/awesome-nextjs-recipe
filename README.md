@@ -13,9 +13,10 @@ clsx: helper for merging class styles
 Datatable: https://github.com/mbrn/material-table
 Toast: https://github.com/fkhadra/react-toastify
 
-Form : react hook form + yup(data validation)
+Form : react hook form
 
 State Management: Redux Tookit with Redux Thunk or Redux Observable
 
 Authentication: Next-Auth or Next-Connect with passport
 
+Graphql : nexus, urql, codegen, typescript
