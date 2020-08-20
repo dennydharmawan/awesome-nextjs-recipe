@@ -5,6 +5,7 @@ next-optimize-image: https://codeconqueror.com/blog/image-optimization-with-next
 
 SEO friendly
 next-seo: https://dev.to/jameswallis/seo-and-image-optimization-with-next-js-23m9
+https://www.creativebloq.com/how-to/build-an-seo-friendly-head-component-for-nextjsreact
 
 Ecosystem
 Material UI: https://material-ui.com/
