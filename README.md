@@ -20,3 +20,5 @@ State Management: Redux Tookit with Redux Thunk or Redux Observable
 Authentication: Next-Auth or Next-Connect with passport
 
 Graphql : nexus, urql, codegen, typescript
+
+Datatable: https://react-table.tanstack.com/
